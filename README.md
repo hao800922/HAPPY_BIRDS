@@ -10,7 +10,7 @@
 ## Version  
 python 3.6, 3.7, 3.8  
 openCV 4.4  
-pygame 19.2  
+pygame 1.9.6  
   
 ## How to install?
 $<code>git clone https://github.com/hao800922/HAPPY_BIRDS.git</code>  
