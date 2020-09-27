@@ -1,5 +1,5 @@
 # HAPPY_BIRDS
-## A bird flies over pipe  when you smile
+## A bird flies over pipe  when you smile.
 ### menu
 ![image](https://github.com/hao800922/HAPPY_BIRDS/blob/master/image/HAPPY_01.jpg)
 ### Game presentation
@@ -8,7 +8,7 @@
 ![image](https://github.com/hao800922/HAPPY_BIRDS/blob/master/image/HAPPY_03.jpg)
   
 ## Version  
-python 3.6, 3.7, 3.8
+python 3.6, 3.7, 3.8  
 openCV 4.4  
 pygame 19.2  
   
